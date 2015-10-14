@@ -3,7 +3,7 @@
 // tbitfield.h - Copyright (c) Гергель В.П. 07.05.2001
 //   Переработано для Microsoft Visual Studio 2008 Сысоевым А.В. (19.04.2015)
 //
-// Битовое поле
+// Битовое поле  
 
 #ifndef __BITFIELD_H__
 #define __BITFIELD_H__
